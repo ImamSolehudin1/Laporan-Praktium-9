@@ -10,21 +10,21 @@
 
 - Program 
 
-![gambar](Screenshot/ssprogram1.jpg)
+![gambar](Screenshot/Screenshot2/ssprogram1.jpg)
 
 - Hasil
 
-![gambar](Screenshot/ssmessage1.jpg)
+![gambar](Screenshot/Screenshot2/ssmessage1.jpg)
 
-![gambar](Screenshot/ssmessage2.jpg)
+![gambar](Screenshot/Screenshot2/ssmessage2.jpg)
 
 - Program
 
-![gambar](Screenshot/ssprogram2.jpg)
+![gambar](Screenshot/Screenshot2/ssprogram2.jpg)
 
 - Hasil
 
 
-![gambar](Screenshot/ssmessage3.jpg)
+![gambar](Screenshot/Screenshot2/ssmessage3.jpg)
 
-![gambar](Screenshot/ssmessage4.jpg)
+![gambar](Screenshot/Screenshot2/ssmessage4.jpg)
